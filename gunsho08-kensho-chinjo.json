@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kensho-chinjo",
  "yomi": "けんしょうちんじょう",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌学書（陳状）",
+  "era": "建久年間（1190年代）",
+  "author": "顕昭",
+  "desc": "六百番歌合での俊成の判に対して、顕昭が自分の歌について万葉集などを引いて反論した陳状。六条家と御子左家の歌学の違いを示すものとして名高い。"
+ },
  "editions": [
   {
    "pid": "1879502",
